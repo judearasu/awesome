@@ -22,5 +22,6 @@ About me
 
 * Javascript
   * http://docs.webplatform.org/wiki/javascript
+  * https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 
