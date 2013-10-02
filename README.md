@@ -4,8 +4,8 @@ frontend-developer
 About me
 
 
-Skills        
-------        
+###Skills###        
+        
 1.  HTML5   :star: :+1:
 2.  CSS3    :+1:
 3.  Javascript - Basics  :-1: :fearful:
@@ -16,3 +16,8 @@ Skills
 8.  Linux :star: :+1:
 9.  Dart :-1: :fearful:
 10. Design Patterns - Javascript :-1: :fearful:
+
+
+###Tutorials###
+
+
