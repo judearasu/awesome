@@ -4,8 +4,8 @@ frontend-developer
 About me
 
 
-###Skills###        
-        
+###Skills###
+
 1.  HTML5   :star: :+1:
 2.  CSS3    :+1:
 3.  Javascript - Basics  :-1: :fearful:
@@ -19,5 +19,8 @@ About me
 
 
 ###Tutorials###
+
+* Javascript
+  * http://docs.webplatform.org/wiki/javascript
 
 
