@@ -23,5 +23,9 @@ About me
 * Javascript
   * http://docs.webplatform.org/wiki/javascript
   * https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  
+* Design Patterns
+  * http://net.tutsplus.com/tutorials/javascript-ajax/digging-into-design-patterns-in-javascript/
+  * http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 
