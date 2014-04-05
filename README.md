@@ -28,4 +28,15 @@ About me
   * http://net.tutsplus.com/tutorials/javascript-ajax/digging-into-design-patterns-in-javascript/
   * http://www.addyosmani.com/resources/essentialjsdesignpatterns/book/
 
+* Hacker
+  * http://learn.hackerearth.com/tutorials/
 
+
+###Challenges###
+
+* HackerEarth
+  * http://www.hackerearth.com/challenges/
+
+###Interview Questions###
+
+* http://learn.hackerearth.com/questions/
