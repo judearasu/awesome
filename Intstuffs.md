@@ -5,3 +5,4 @@ Shawnacscott
   - http://shawnacscott.com
   - http://www.portlandcodeschool.com/
   - https://github.com/portlandcodeschool
+  - https://github.com/portlandcodeschool/ruby-on-rails-2013Q3
