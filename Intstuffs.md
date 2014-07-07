@@ -1,4 +1,9 @@
-## Interesting persons, code and related stuffs around the world
+#Interesting people, code and related stuffs around the world
 
-1. shawnacscott
-   1. https://github.com/shawnacscott
+Shawnacscott
+============
+ Junior freelance developer living in Portland, Oregon and Assistant Director at Portland Code School.
+  - https://github.com/shawnacscott
+  - http://shawnacscott.com
+  - http://www.portlandcodeschool.com/
+  - https://github.com/portlandcodeschool
