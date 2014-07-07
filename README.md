@@ -1,4 +1,4 @@
-frontend-developer
+Front end developer
 ==================
 
 About me
@@ -36,7 +36,9 @@ About me
 
 * HackerEarth
   * http://www.hackerearth.com/challenges/
-
+* Codeschool
+  * http://discuss.codeschool.io/
+  * 
 ###Interview Questions###
 
 * http://learn.hackerearth.com/questions/
