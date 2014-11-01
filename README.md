@@ -42,3 +42,7 @@ About me
 ###Interview Questions###
 
 * http://learn.hackerearth.com/questions/
+
+* Where Do You See Yourself in Five Years?
+  * “My goal right now is to find a position at a company where I can grow and take on new challenges over time. Ultimately, I’d like to assume more management responsibilities and get involved in product strategy. But most importantly, I want to work for an organization where I can build a career.”
+  * “I am driven to be the best at what I do and I want to work somewhere where I’ll have opportunities to develop my skills, take on interesting projects, and work with people I can really learn from. Some of the most innovative thinkers in the industry work here and that’s a big reason why I would love to build a career here.”
