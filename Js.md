@@ -18,3 +18,4 @@ JavaScript Interesting Urls
 [CSC]:https://github.com/nzakas/computer-science-in-javascript
 [Algorithm Visual]:http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 [SafariBooks]:https://www.safaribooksonline.com/library/view/data-structures-and/9781449373931/
+[Javascript Patterns]:https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript
