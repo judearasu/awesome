@@ -27,7 +27,8 @@ JavaScript Interesting Urls
 
 * Explain event delegation - https://davidwalsh.name/event-delegate
 * Explain how `this` works in JavaScript - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
-* Explain how prototypal inheritance works - http://www.htmlgoodies.com/html5/tutorials/javascript-prototypical-inheritance-explained.html#fbid=UIRaAVnEhpK
+* Explain how prototypal inheritance works -  http://www.htmlgoodies.com/html5/tutorials/javascript-prototypical-inheritance-explained.html#fbid=UIRaAVnEhpK http://wildlyinaccurate.com/understanding-javascript-inheritance-and-the-prototype-chain/
+* 
 * What do you think of AMD vs CommonJS?
 * Explain why the following doesn't work as an IIFE: `function foo(){ }();`.
   * What needs to be changed to properly make it an IIFE?
