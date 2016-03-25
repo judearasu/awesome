@@ -25,8 +25,8 @@ JavaScript Interesting Urls
 ##JS Interview Questions
 #### JS Questions:
 
-* Explain event delegation
-* Explain how `this` works in JavaScript
+* Explain event delegation - https://davidwalsh.name/event-delegate
+* Explain how `this` works in JavaScript - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
 * Explain how prototypal inheritance works
 * What do you think of AMD vs CommonJS?
 * Explain why the following doesn't work as an IIFE: `function foo(){ }();`.
