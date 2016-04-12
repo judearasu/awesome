@@ -9,17 +9,22 @@ JavaScript Interesting Urls
 
 ## 
 ## Algorithm
-*[Algorithm]
-*[CSC]
-*[Algorithm Visual]
-*[SafariBooks]
-*[Javascript Patterns]
+* [Algorithm]
+* [CSC]
+* [Algorithm Visual]
+* [SafariBooks]
+* [Javascript Patterns]
 
 [Algorithm]:http://javascript-html5-tutorial.com/algorithms-and-data-structures-in-javascript.html
 [CSC]:https://github.com/nzakas/computer-science-in-javascript
 [Algorithm Visual]:http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 [SafariBooks]:https://www.safaribooksonline.com/library/view/data-structures-and/9781449373931/
 [Javascript Patterns]:https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript
+
+## Udacity Courses
+* [JavaScript Basics]
+
+[JavaScript Basics]:https://www.udacity.com/course/javascript-basics--ud804
 
 ## Interview Questions
 * Explain event delegation - https://davidwalsh.name/event-delegate
