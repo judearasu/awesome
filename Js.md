@@ -5,9 +5,11 @@ JavaScript Interesting Urls
 
 ## JQuery Interview Gotchas
 * [Debugging for Beginners]
+* [Quiz]
 [Debugging for Beginners]:http://juliepagano.com/blog/2014/05/18/javascript-debugging-for-beginners/
+[Quiz]: http://davidshariff.com/quiz/
 
-## 
+##
 ## Algorithm
 * [Algorithm]
 * [CSC]
@@ -30,7 +32,7 @@ JavaScript Interesting Urls
 * Explain event delegation - https://davidwalsh.name/event-delegate
 * Explain how `this` works in JavaScript - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
 * Explain how prototypal inheritance works -  http://www.htmlgoodies.com/html5/tutorials/javascript-prototypical-inheritance-explained.html#fbid=UIRaAVnEhpK http://wildlyinaccurate.com/understanding-javascript-inheritance-and-the-prototype-chain/
-* 
+*
 * What do you think of AMD vs CommonJS?
 * Explain why the following doesn't work as an IIFE: `function foo(){ }();`.
   * What needs to be changed to properly make it an IIFE?
@@ -79,4 +81,4 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
 * Explain the difference between synchronous and asynchronous functions.
 * What is event loop?
   * What is the difference between call stack and task queue?
-* Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}` 
+* Explain the differences on the usage of `foo` between `function foo() {}` and `var foo = function() {}`
