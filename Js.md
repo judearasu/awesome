@@ -7,7 +7,7 @@ JavaScript Interesting Urls
 * [Debugging for Beginners]
 * [Quiz]
 [Debugging for Beginners]:http://juliepagano.com/blog/2014/05/18/javascript-debugging-for-beginners/
-[Quiz]: http://davidshariff.com/quiz/
+[Quiz]: http://davidshariff.com/quiz/~
 
 ##
 ## Algorithm
