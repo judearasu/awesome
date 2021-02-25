@@ -1,7 +1,7 @@
 About me
 ==================
 
-###Skills###
+###Skills
 
 1.  HTML5   :star: :+1:
 2.  CSS3    :+1:
