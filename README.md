@@ -1,7 +1,5 @@
-Front end developer
-==================
-
 About me
+==================
 
 ###Skills###
 
